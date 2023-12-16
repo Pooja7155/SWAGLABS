@@ -77,7 +77,3 @@ public class Inventory_page_2 extends TestBase
 	}
 	
 	}
-
-
-
-
